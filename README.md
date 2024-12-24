@@ -12,13 +12,13 @@ This project is a single-page CV designed to showcase your skills, experience, a
 ## Getting Started
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/imaninamajeed/single-page-cv.git
-    ```
+   ```bash
+   git clone https://github.com/imaninamajeed/single-page-cv.git
+   ```
 2. Navigate to the project directory:
-    ```bash
-    cd single-page-cv
-    ```
+   ```bash
+   cd single-page-cv
+   ```
 3. Open `index.html` in your preferred web browser to view your CV.
 
 ## Customization
